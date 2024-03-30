@@ -1,7 +1,7 @@
 | Week | Task | Raku | Perl | C++ | Python | Java |
 | :--  | :--  | :--  | :--  | :-- | :--    | :--  |
-| [001](https://theweeklychallenge.org/blog/perl-weekly-challenge-001/) | 1 | [ch-1.raku](https://github.com/ash/raku-challenges/blob/master/001/ch-1.raku) | | | [ch-1.py](https://github.com/ash/java-challenges/blob/main/001/ch-1.py) | [ch-1.java](https://github.com/ash/java-challenges/blob/main/001/ch-1.java) 
-| [001](https://theweeklychallenge.org/blog/perl-weekly-challenge-001/) | 2 | [ch-2.raku](https://github.com/ash/raku-challenges/blob/master/001/ch-2.raku) | | | [ch-2.py](https://github.com/ash/java-challenges/blob/main/001/ch-2.py) | [ch-2.java](https://github.com/ash/java-challenges/blob/main/001/ch-2.java) 
+| [001](https://theweeklychallenge.org/blog/perl-weekly-challenge-001/) | 1 | [ch-1.raku](https://github.com/ash/raku-challenges/blob/master/001/ch-1.raku) | | | [ch-1.py](https://github.com/ash/python-challenges/blob/main/001/ch-1.py) | [ch-1.java](https://github.com/ash/java-challenges/blob/main/001/ch-1.java) 
+| [001](https://theweeklychallenge.org/blog/perl-weekly-challenge-001/) | 2 | [ch-2.raku](https://github.com/ash/raku-challenges/blob/master/001/ch-2.raku) | | | [ch-2.py](https://github.com/ash/python-challenges/blob/main/001/ch-2.py) | [ch-2.java](https://github.com/ash/java-challenges/blob/main/001/ch-2.java) 
 | [002](https://theweeklychallenge.org/blog/perl-weekly-challenge-002/) | 1 | [ch-1.raku](https://github.com/ash/raku-challenges/blob/master/002/ch-1.raku) | | | | [ch-1.java](https://github.com/ash/java-challenges/blob/main/002/ch-1.java) 
 | [002](https://theweeklychallenge.org/blog/perl-weekly-challenge-002/) | 2 | [ch-2.raku](https://github.com/ash/raku-challenges/blob/master/002/ch-2.raku) | 
 | [003](https://theweeklychallenge.org/blog/perl-weekly-challenge-003/) | 1 | [ch-1.raku](https://github.com/ash/raku-challenges/blob/master/003/ch-1.raku) | 
